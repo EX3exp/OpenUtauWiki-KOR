@@ -7,7 +7,7 @@
 - OpenUtau Guide for Korean Users.
 - [OpenUtau 영문 위키](https://github.com/stakira/OpenUtau/wiki)를 기반으로 제작된 한국어 위키입니다.
 
-<br>
+<br><br>
 
 ### 1. 만들어진 이유
 - 필자는 과거 영문 위키 기반의 OpenUtau 한국어 위키를 이미 만든 바 있으나, **현재 해당 위키는 위키독(Wikidok)의 서비스 종료로 인해 접근 불가하게 되었습니다.**
