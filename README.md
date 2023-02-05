@@ -15,5 +15,5 @@
 - 하지만 옾타우 위키는 죽지 않습니다(?). 새로운 번역으로 찾아온 교습소를 환영해 주세요! 
 
 ### 2. 교습소 바로가기
-- [Click!]()
+- [Click!](https://github.com/EX3exp/OpenUtauWiki-KOR/wiki)
 - 상단의 wiki 메뉴로도 이동 가능합니다.
